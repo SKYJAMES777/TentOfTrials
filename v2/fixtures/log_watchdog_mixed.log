@@ -1,0 +1,5 @@
+2026-06-22 [INFO] plain text log line
+{"level":"ERROR","message":"json structured line"}
+another plain line
+{broken json here
+{"level":"INFO","message":"valid after malformed"}

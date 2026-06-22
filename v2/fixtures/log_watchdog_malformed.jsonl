@@ -1,0 +1,4 @@
+{"level":"INFO","message":"valid json line 1"}
+{broken malformed line}
+{"level":"ERROR","message":"valid again"}
+just plain text line with no json
